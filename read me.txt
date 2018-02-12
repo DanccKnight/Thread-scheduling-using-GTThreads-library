@@ -1,0 +1,5 @@
+To run the program, open this folder in terminal. 
+To compile the program, type 'make'.
+To compile the matrix code, type 'make matrix'. 
+To run the program, type './bin/matrix'.
+To select the credit based scheduler, give the input as 1, else give any number as input to use the default o(1) scheduler. 
